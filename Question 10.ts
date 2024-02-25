@@ -3,8 +3,8 @@
 
 
 // Favorite Number Program
-// Author: Abdul Hannan
-// Date: 2023-02-09
+// Author: Muhammad Ibrahim Khan
+// Date: 25-02-2024
 export default function q10() {
     let favoriteNumber = 7;
     let message = `My favorite number is ${favoriteNumber}.`;
