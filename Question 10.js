@@ -3,7 +3,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 // Favorite Number Program
 // Author: Muhammad Ibrahim Khan
-// Date: 2023-02-09
+// Date: 25-02-2024
 function q10() {
     let favoriteNumber = 9;
     let message = `My favorite number is ${favoriteNumber}.`;
