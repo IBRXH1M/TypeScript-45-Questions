@@ -11,9 +11,9 @@ Start with your program from Exercise 14. Add a print statement at the end of yo
 
 */
 function q15() {
-    const guestList = ['Sir Daniyal Nagori', 'Imran Khan', 'Bitcoin', 'Dollars'];
+    const guestList = ['Danish', 'Maqsood', 'Bitcoin', 'Dollars'];
     const unableToAttend = "Dawood Bhai";
-    const newInvite = 'Miss Hira Khan';
+    const newInvite = 'Ayesha Khan';
     console.log(`${unableToAttend} can't make it to the party. \n`);
     for (let guest of guestList) {
         if (guest === unableToAttend) {
