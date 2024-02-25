@@ -6,7 +6,7 @@ function q3() {
     console.log(`Lowercase: ${name.toLowerCase()}`);
     console.log(`Uppercase: ${name.toUpperCase()}`);
     console.log(`Titlecase: ${name.charAt(0).toUpperCase() + name.slice(1)}`);
-    let sentence = "Hello i am abdul hannan";
+    let sentence = "Hello i am Ibrahim";
     let words = sentence.split(" ");
     titleCaseWords.forEach(function (titleCaseWords) {
     });
