@@ -7,7 +7,7 @@ function q3(){
     console.log(`Uppercase: ${name.toUpperCase()}`);
     console.log(`Titlecase: ${name.charAt(0).toUpperCase() + name.slice(1)}`);
     
-    let sentence: string = "Hello i am abdul hannan";
+    let sentence: string = "Hello i am Ibrahim";
     
     let words: string[] = sentence.split(" ");
     
