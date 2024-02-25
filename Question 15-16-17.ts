@@ -10,7 +10,7 @@ Start with your program from Exercise 14. Add a print statement at the end of yo
 
 */
 export default function q15() {
-const guestList: string[] = ['Sir Daniyal Nagori', 'Imran Khan' , 'Bitcoin' , 'Dollars']
+const guestList: string[] = ['Danish', 'Imran Khan' , 'Bitcoin' , 'Dollars']
 const unableToAttend : string = "Dawood Bhai";
 const newInvite: string = 'Miss Hira Khan'
 
